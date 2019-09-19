@@ -1,0 +1,5 @@
+# Data processing
+jupyter==1.0.0
+pandas==0.24.2
+matplotlib==3.0.3
+seaborn==0.9.0
